@@ -1,7 +1,7 @@
 <!-- Profile Header -->
 <div align="center">
   
-  <h1>Hi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" height="35" />, I'm Yohannes Desta</h1>
+  <h1>Hi/ሰላም <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" height="35" />, I'm Yohannes Desta</h1>
   
   <h3>CSE Student at ASTU|Fullstack Developer</h3>
   
@@ -17,11 +17,8 @@
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="25" height="25" /> About Me
 
 - 🎓 CSE Student at **Adama Science and Technology University (ASTU)**
-- 💻 **Software Engineering Trainee** at Africa to Silicon Valley (A2SV)
-- 🏆 **CSEC ASTU** member - Dedicated to problem-solving and competitive programming
-- 🎯 **Backend Specialist** focused on building scalable REST APIs and robust System Architecture
-- 💡 Driven by turning complex logic into impactful, real-world solutions
-
+- 🎯 **Fullstack Developer** passionate about end-to-end development — from scalable APIs and solid architecture to compelling user interfaces.
+- 💡 Translating complex business logic into seamless, full-stack applications that deliver measurable real-world value.
 <br/>
 
 <!-- Tech Stack Section -->
