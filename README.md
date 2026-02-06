@@ -30,7 +30,7 @@
 
 ### 🌐 **Frontend**
 <p>
-  <img src="https://skillicons.dev/icons?i=react,html,css,js" />
+  <img src="https://skillicons.dev/icons?i=react,html,css,js,figma,webflow" />
 </p>
 
 ### ⚙️ **Backend & Infrastructure**
