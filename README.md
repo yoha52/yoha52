@@ -17,7 +17,7 @@
 
 ```javascript
 const developer = {
-  name: "Your Name",
+  name: "yohanens desat",
   role: "Full Stack Developer",
   language: ["TypeScript", "Python", "Go"],
   currentFocus: "Building scalable web applications",
