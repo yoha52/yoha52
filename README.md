@@ -26,19 +26,26 @@
 
 <div align="center">
 
-### 🖥️ Programming Languages
+## 🛠️ Tech Stack
+
+### 🌐 **Frontend**
 <p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,c" />
+  <img src="https://skillicons.dev/icons?i=react,html,css,js" />
 </p>
 
-### ⚙️ Backend & Infrastructure
+### ⚙️ **Backend & Infrastructure**
 <p>
-  <img src="https://skillicons.dev/icons?i=django,fastapi,postgresql,docker" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python,django,fastapi" />
 </p>
 
-### 🔧 Tools & Databases
+### 🗄️ **Databases & DevOps**
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,postman" />
+  <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,docker,nginx" />
+</p>
+
+### 🔧 **Tools & Utilities**
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,cpp" />
 </p>
 
 </div>
@@ -47,7 +54,6 @@
 
 <!-- GitHub Stats Section -->
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Stats" width="25" height="25" /> GitHub Stats
-
 <div align="center">
 
 <table>
