@@ -1,20 +1,20 @@
-&lt;!-- Profile Header --&gt;
-&lt;div align="center"&gt;
+<!-- Profile Header -->
+<div align="center">
   
-  &lt;h1&gt;Hi &lt;img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" height="35" /&gt;, I'm Menwuyelet&lt;/h1&gt;
+  <h1>Hi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" height="35" />, I'm Menwuyelet</h1>
   
-  &lt;h3&gt;CSE Student at ASTU | A2SV Trainee | Backend Developer&lt;/h3&gt;
+  <h3>CSE Student at ASTU | A2SV Trainee | Backend Developer</h3>
   
-  &lt;a href="https://csec-astu.com"&gt;
-    &lt;img src="https://img.shields.io/badge/CSEC_ASTU-Men-FF6B6B?style=for-the-badge&logoColor=white" alt="CSEC ASTU" /&gt;
-  &lt;/a&gt;
+  <a href="https://csec-astu.com">
+    <img src="https://img.shields.io/badge/CSEC_ASTU-Men-FF6B6B?style=for-the-badge&logoColor=white" alt="CSEC ASTU" />
+  </a>
   
-&lt;/div&gt;
+</div>
 
-&lt;br/&gt;
+<br/>
 
-&lt;!-- About Me Section --&gt;
-## &lt;img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="25" height="25" /&gt; About Me
+<!-- About Me Section -->
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="25" height="25" /> About Me
 
 - 🎓 CSE Student at **Adama Science and Technology University (ASTU)**
 - 💻 **Software Engineering Trainee** at Africa to Silicon Valley (A2SV)
@@ -22,77 +22,77 @@
 - 🎯 **Backend Specialist** focused on building scalable REST APIs and robust System Architecture
 - 💡 Driven by turning complex logic into impactful, real-world solutions
 
-&lt;br/&gt;
+<br/>
 
-&lt;!-- Tech Stack Section --&gt;
-## &lt;img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Tools" width="25" height="25" /&gt; Tech Stack
+<!-- Tech Stack Section -->
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Tools" width="25" height="25" /> Tech Stack
 
-&lt;div align="center"&gt;
+<div align="center">
 
 ### 🖥️ Programming Languages
-&lt;p&gt;
-  &lt;img src="https://skillicons.dev/icons?i=python,cpp,c" /&gt;
-&lt;/p&gt;
+<p>
+  <img src="https://skillicons.dev/icons?i=python,cpp,c" />
+</p>
 
 ### ⚙️ Backend & Infrastructure
-&lt;p&gt;
-  &lt;img src="https://skillicons.dev/icons?i=django,fastapi,postgresql,docker" /&gt;
-&lt;/p&gt;
+<p>
+  <img src="https://skillicons.dev/icons?i=django,fastapi,postgresql,docker" />
+</p>
 
 ### 🔧 Tools & Databases
-&lt;p&gt;
-  &lt;img src="https://skillicons.dev/icons?i=git,github,postman" /&gt;
-&lt;/p&gt;
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,postman" />
+</p>
 
-&lt;/div&gt;
+</div>
 
-&lt;br/&gt;
+<br/>
 
-&lt;!-- GitHub Stats Section --&gt;
-## &lt;img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Stats" width="25" height="25" /&gt; GitHub Stats
+<!-- GitHub Stats Section -->
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Stats" width="25" height="25" /> GitHub Stats
 
-&lt;div align="center"&gt;
+<div align="center">
 
-&lt;table&gt;
-  &lt;tr&gt;
-    &lt;td&gt;
-      &lt;img src="https://github-readme-stats.vercel.app/api?username=Menwuyelet&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="GitHub Stats" /&gt;
-    &lt;/td&gt;
-    &lt;td&gt;
-      &lt;img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Menwuyelet&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" /&gt;
-    &lt;/td&gt;
-  &lt;/tr&gt;
-&lt;/table&gt;
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=Menwuyelet&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Menwuyelet&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
 
-&lt;/div&gt;
+</div>
 
-&lt;br/&gt;
+<br/>
 
-&lt;!-- Contact Section --&gt;
-## &lt;img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telephone%20Receiver.png" alt="Contact" width="25" height="25" /&gt; Contact Me
+<!-- Contact Section -->
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telephone%20Receiver.png" alt="Contact" width="25" height="25" /> Contact Me
 
-&lt;div align="center"&gt;
+<div align="center">
   
-  &lt;a href="mailto:your.email@example.com"&gt;
-    &lt;img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /&gt;
-  &lt;/a&gt;
-  &lt;a href="https://linkedin.com/in/menwuyelet"&gt;
-    &lt;img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /&gt;
-  &lt;/a&gt;
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://linkedin.com/in/menwuyelet">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
   
-&lt;/div&gt;
+</div>
 
-&lt;br/&gt;
+<br/>
 
-&lt;!-- Quote Footer --&gt;
-&lt;div align="center"&gt;
+<!-- Quote Footer -->
+<div align="center">
   
-  &gt; *"Any fool can write code that a computer can understand. Good programmers write code that humans can understand."* — **Martin Fowler**
+  > *"Any fool can write code that a computer can understand. Good programmers write code that humans can understand."* — **Martin Fowler**
   
-&lt;/div&gt;
+</div>
 
-&lt;br/&gt;
+<br/>
 
-&lt;div align="center"&gt;
-  &lt;img src="https://komarev.com/ghpvc/?username=Menwuyelet&color=blue&style=flat-square" alt="Profile Views" /&gt;
-&lt;/div&gt;
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Menwuyelet&color=blue&style=flat-square" alt="Profile Views" />
+</div>
