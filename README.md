@@ -35,7 +35,7 @@
 
 ### ⚙️ **Backend & Infrastructure**
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,python" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,java" />
 </p>
 
 ### 🗄️ **Databases & DevOps**
