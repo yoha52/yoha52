@@ -1,16 +1,25 @@
-## Hi there 👋
+<div align="center">
+  
+  <!-- Animated Header -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=940&lines=Hey%2C+I'm+%5BYour+Name%5D+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%92%BB;Open+Source+Enthusiast+%E2%9C%A8;Always+Learning+%F0%9F%93%9A" alt="Typing SVG" />
+  
+  <br/>
+  
+  <!-- Profile Views Counter -->
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=8B5CF6" alt="Profile Views" />
+  
+</div>
 
-<!--
-**yoha52/yoha52** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br/>
 
-Here are some ideas to get you started:
+<!-- About Me Section with Cool Badge -->
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="30" height="30" /> About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```javascript
+const developer = {
+  name: "Your Name",
+  role: "Full Stack Developer",
+  language: ["TypeScript", "Python", "Go"],
+  currentFocus: "Building scalable web applications",
+  funFact: "I debug with console.log and I'm not ashamed! ☕"
+};
