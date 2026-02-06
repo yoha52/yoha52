@@ -1,9 +1,9 @@
 <!-- Profile Header -->
 <div align="center">
   
-  <h1>Hi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" height="35" />, I'm Menwuyelet</h1>
+  <h1>Hi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" height="35" />, I'm Yohannes Desta</h1>
   
-  <h3>CSE Student at ASTU | A2SV Trainee | Backend Developer</h3>
+  <h3>CSE Student at ASTU|Fullstack Developer</h3>
   
   <a href="https://csec-astu.com">
     <img src="https://img.shields.io/badge/CSEC_ASTU-Men-FF6B6B?style=for-the-badge&logoColor=white" alt="CSEC ASTU" />
