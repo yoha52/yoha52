@@ -35,17 +35,17 @@
 
 ### ⚙️ **Backend & Infrastructure**
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,python,django,fastapi" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python" />
 </p>
 
 ### 🗄️ **Databases & DevOps**
 <p>
-  <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,docker,nginx" />
+  <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,docker" />
 </p>
 
 ### 🔧 **Tools & Utilities**
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,cpp" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,cpp" />
 </p>
 
 </div>
